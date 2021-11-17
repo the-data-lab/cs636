@@ -1,5 +1,6 @@
 # cs636
-Code snippet for CS636-Big Data System
+Code snippet for CS636-Big Data System.
+This repository is an educational platform to introduce systems aspect in the data science
 
 # Kernel
 If you don't find pybind11 directory or its files, please run this command.
